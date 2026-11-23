@@ -2,6 +2,8 @@
 [![make.fun bounty](https://make.fun/badge-bounty.svg)](https://make.fun/c/the-joke-about-the-demo-20261123-0112)
 [![Built with make.fun](https://make.fun/badge-built.svg)](https://make.fun)
 [![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/c/the-joke-about-the-demo-20261123-0112)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/whatever7410258/makefun-joke-demo-01/rank.svg)](https://make.fun/c/the-joke-about-the-demo-20261123-0112)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/whatever7410258/makefun-joke-demo-01/reward.svg)](https://make.fun/c/the-joke-about-the-demo-20261123-0112)
 
 # The Joke About the Demo
 
